@@ -36,13 +36,10 @@
 
 
 4. 📫 Contact Me
-This section provides ways for people to connect with you. It could include links to your social media, portfolio, or email.
 
-Example:
-
-📩 Email: yadavlalita803@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/miss-er-lalita-yadav-6176b416a
-
-🐙 GitHub: [github.com/yourusername](https://github.com/yadavlalita)
+    📩 Email: yadavlalita803@gmail.com
+    
+    💼 LinkedIn: www.linkedin.com/in/miss-er-lalita-yadav-6176b416a
+    
+    🐙 GitHub: [github.com/yourusername](https://github.com/yadavlalita)
 
