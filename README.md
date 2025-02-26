@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello Lalita Here ..... 👋
 
-<!--
-**yadavlalita/yadavlalita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+    Full Stack Developer with expertise in Node.js, React.js, Angular.js, HTML, CSS and MongoDB.
+    Passionate about building scalable web applications and RESTful APIs.
+    Enthusiastic about clean code, best practices, and software architecture.
+    
+🔧 Tech Stack
+    Frontend: React.js, Angular.js, HTML, CSS, Tailwind, Bootstrap
+    Backend: Node.js, Express.js, Nest.js
+    Database: MongoDB, MySQL, PostgreSQL
+    DevOps: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+    Cloud: AWS, Firebase, Vercel, Netlify
+    Version Control: Git, GitHub, GitLab
+    
+📫 Contact Me
+GitHub: [Your GitHub Profile](https://github.com/yadavlalita)
+LinkedIn: www.linkedin.com/in/miss-er-lalita-yadav-6176b416a
+Email: yadavlalita803@gmail.com
