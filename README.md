@@ -15,9 +15,11 @@
     DevOps: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
     Cloud: AWS, Firebase, Vercel, Netlify
     Version Control: Git, GitHub, GitLab
-    
+
 📫 Contact Me
 
 GitHub: [Your GitHub Profile](https://github.com/yadavlalita)
+
 LinkedIn: www.linkedin.com/in/miss-er-lalita-yadav-6176b416a
+
 Email: yadavlalita803@gmail.com
