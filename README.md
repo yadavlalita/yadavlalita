@@ -3,6 +3,7 @@
 1. 🚀 About Me
 
       🚀 Full Stack Developer | Node.js | React.js | Angular.js | MongoDB
+   
         I am a Full Stack Developer with expertise in Node.js, React.js, Angular.js, and MongoDB, passionate about building scalable web applications and RESTful APIs. With a strong foundation in both frontend and backend technologies, I specialize in developing dynamic, high-performance applications that enhance user experience and optimize business processes.
 
 3. 🔧 Tech Stack
