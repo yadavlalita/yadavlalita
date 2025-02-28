@@ -41,5 +41,5 @@
     
     💼 LinkedIn: www.linkedin.com/in/miss-er-lalita-yadav-6176b416a
     
-    🐙 GitHub: [github.com/yourusername](https://github.com/yadavlalita)
+    🐙 GitHub: https://github.com/yadavlalita
 
